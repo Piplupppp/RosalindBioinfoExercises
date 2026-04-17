@@ -27,5 +27,5 @@ Each file corresponds to a specific Rosalind problem and contains a Python solut
 This repository is continuously updated as I complete new exercises.
 
 ## Author
-Giulia Trentarossi
-Medical Biotechnology graduate with an interest in bioinformatics and data analysis.
+- Giulia Trentarossi
+- Medical Biotechnology graduate with an interest in bioinformatics and data analysis.
