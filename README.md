@@ -31,6 +31,6 @@ This repository is continuously updated as I complete new exercises.
 ## Author
 Giulia Trentarossi
 
-Medical Biotechnology graduate with an interest in bioinformatics and data analysis.
-
 Rosalind account: https://rosalind.info/users/squala73/
+
+Linkedin profile: www.linkedin.com/in/giulia-trentarossi-8a67273a4
