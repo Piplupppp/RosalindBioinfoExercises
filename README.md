@@ -21,9 +21,8 @@ Through these exercises, I am strengthening my ability to solve biological probl
 - Build a foundation in bioinformatics and computational biology  
 
 ## Structure
-Each .py file corresponds to a specific Rosalind problem and contains a Python solution.
-
-The repository provides also the .txt dataset files downloaded from the Rosalind website and used to test the solution to each problem.
+- Each .py file corresponds to a specific Rosalind problem and contains a Python solution.
+- Each .txt file corresponds to the datasets downloaded from the Rosalind website and used to test the solution to each problem.
 
 ## Progress
 This repository is continuously updated as I complete new exercises.
