@@ -23,6 +23,7 @@ Through these exercises, I am strengthening my ability to solve biological probl
 ## Structure
 - Each .py file corresponds to a specific Rosalind problem and contains a Python solution.
 - Each .txt file corresponds to the datasets downloaded from the Rosalind website and used to test the solution to each problem.
+- In some cases, you will find "output_x.txt" files. This is due to the fact that in some problems the output contains a large amount of data, which I have preferred to redirect on a .txt output file rather then showing it directly on the terminal.
 
 ## Progress
 This repository is continuously updated as I complete new exercises.
